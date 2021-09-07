@@ -1,8 +1,7 @@
 ---
 layout: base.njk
-title: Väldigt mysigt
 ---
 
-# Nu med sås!
+# Welcome to my learning blog
 
-Detta är content från markdown.
+This is very tech.
