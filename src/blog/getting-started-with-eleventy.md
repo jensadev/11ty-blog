@@ -155,4 +155,8 @@ Now this document is getting a bit too long, but we'll push on. First you should
 
 ## Blog
 
-To add a blog post, create a new file in the ```src/blog``` directory. This file will display a list of all our blog posts using eleventys built in collections.
+To add a blog post, create a new file in the ```src/blog``` directory. This file will display a list of all our blog posts using eleventy's built in collections.
+
+# Hosting
+
+We will use [Netlify](https://www.netlify.com/) to host our site.
