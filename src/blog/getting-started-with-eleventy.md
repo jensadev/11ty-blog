@@ -1,5 +1,7 @@
 ---
 title: Getting started with Eleventy
+tags: ["post", "eleventy", "tutorial"]
+excerpt: Tutorial for getting started with eleventy
 ---
 
 Today I've installed and tried [eleventy](https://www.11ty.dev/) for the first time. It's a great tool for building static websites.
