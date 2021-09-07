@@ -15,10 +15,11 @@ main {
     padding-right: 1rem;
 }
 
-nav {
+nav, footer {
     width: 100%;
     max-width: 48rem;
 }
+
 nav > ul {
     display: flex;
     list-style: none;
