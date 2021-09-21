@@ -8,6 +8,10 @@
         <link rel="stylesheet" href="{{ '/css/main.css' }}">
     </head>
     <body>
+        <header>
+            <img src="{{ github.avatar_url }}">
+            <img src="{{ cat.file }}">
+        </header>
         {% include "components/navigation.njk" %}
         <main class="container">
             {{ content | safe }}
