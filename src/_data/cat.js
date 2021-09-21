@@ -1,9 +1,9 @@
-const axios = require('axios');
+// const axios = require('axios');
 
-module.exports = async () => {
-    const { data } = await axios.get('https://aws.random.cat/meow');
+// module.exports = async () => {
+//     const { data } = await axios.get('https://aws.random.cat/meow');
 
-    console.log(data);
+//     console.log(data);
 
-    return data;
-};
+//     return data;
+// };
