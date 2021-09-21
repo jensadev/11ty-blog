@@ -16,4 +16,4 @@ module.exports = function (eleventyConfig) {
         },
         passthroughFileCopy: true
     };
-};
+const Image = require("@11ty/eleventy-img");};
