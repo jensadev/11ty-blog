@@ -4,13 +4,14 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ meta.siteTitle }}</title>
+        <title>{{ meta.title }}</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-funky.min.css">
         <link rel="stylesheet" href="{{ '/css/main.css' }}">
     </head>
     <body>
         <header>
             <img src="{{ github.avatar_url }}">
-            <img src="{{ cat.file }}">
+            {# <img src="{{ cat.file }}"> #}
         </header>
         {% include "components/navigation.njk" %}
         <main class="container">
